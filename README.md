@@ -1,10 +1,8 @@
 # Datathon-Spring-2020
-The report of Citadel East Coast Regional Datathon Spring 2020. 
+The report of Citadel East Coast Regional Datathon Spring 2020 (one-day competition). 
 
 Team members: Daming Li, Fenny Lian, Michael Pu, Jake Stamell
 
 Won 3rd place out of 24 teams.
 
-The pdf file is the final report. Some of the scripts are uploaded in the Scripts folder (kind of messy), while the datasets could not be shared as part of the competition rule.
-
-Techniques leveraged: regression, time series, data visualization
+Report file name: Datathon_2020.pdf
